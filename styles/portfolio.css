@@ -215,3 +215,35 @@ flex-shrink: 0;
 .section-part-4-2{
    
 }
+
+.section-part-5{
+    padding: 40px;
+    margin-bottom: 50px;
+ }
+ .section-part-5-1{
+ 
+ }
+ .section-part-5-1-heading{
+     color: #272727;
+     margin-bottom: 20px;
+     text-align: center;
+     font-size: 40px;
+     font-weight: 800;
+ }
+ .section-part-5-1-para{
+     color: rgba(39, 39, 39, 0.60);
+     margin-bottom: 20px;
+     text-align: center;
+     font-size: 18px;
+     font-weight: 400;
+     line-height: 30px; /* 166.667% */
+ }
+ .section-part-5-2-img{
+     max-width: 1081px; 
+     margin: 0 auto;
+ }
+ .section-part-5-2-img img{
+     width: 262px;
+     height: 250px;
+     margin-right: 5px;
+ }
