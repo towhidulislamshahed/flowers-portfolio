@@ -146,3 +146,30 @@ flex-shrink: 0;
     line-height: 35px; /* 145.833% */
     text-decoration-line: underline;
 }
+
+.section-part-3{
+    max-width: 970px;
+   display: flex;
+   margin-left: 250px;
+   justify-content: space-around;
+
+   margin: 0 auto;
+   border-radius: 8px;
+   background: rgba(39, 39, 39, 0.05);
+   padding: 20px;
+}
+.section-part-3 p{
+    text-align: center;
+    padding: 5px 20px 5px 20px;
+    
+}
+.section-part-3 p:last-child{
+    text-align: center;
+    padding-left:35px;
+    
+}
+.section-part-3 img{
+    display: inline-block;
+    padding-left:  80px ;
+}
+
