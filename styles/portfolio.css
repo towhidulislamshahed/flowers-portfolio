@@ -247,3 +247,55 @@ flex-shrink: 0;
      height: 250px;
      margin-right: 5px;
  }
+
+ .section-part-6{
+    max-width: 1081px;
+    min-height: 450px;
+    background-image: url('../images/Rectangle\ 9.png');
+    padding: 110px;
+    margin: 0 auto;
+    border-radius: 8px;
+}
+.section-part-6-1-heading{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+.section-part-6-1-para{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+    margin-bottom: 30px;
+}
+.section-part-6-2{
+   
+    width: 800px;
+    margin: 0 auto;
+    margin-left: 150px;
+}
+.section-part-6-2 input[type="text"]
+{
+    border-color: red;
+    color: tomato;
+    border-radius: 10px;
+    width: 70%;
+    padding: 20px 30px 10px 0px;
+    margin-left:0px ;
+
+}
+.section-part-6-2 button{
+    border: none;
+    padding: 15px 30px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+}
+
